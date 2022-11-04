@@ -1,6 +1,6 @@
 i=0
-a="1"
-c="1"
+a="2722702142"
+c="2722702142"
 for i in range(3):
     aa = str(input("输入账号:"))
     cc= str(input("输入密码:"))
