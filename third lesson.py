@@ -1,0 +1,6 @@
+print("输入矩形的长：",end="")
+a=int(input())
+print("输入矩形的宽：",end="")
+b=int(input())
+print("周长等于",(a+b)*2)
+print("面积等于",a*b)
