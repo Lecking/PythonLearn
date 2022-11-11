@@ -5,3 +5,9 @@ for i in range(a):
     print()
     for k in range(0,i+1):
         print("  ",end="")
+for i in range(2,a+1):
+    for m in range(a-i):
+        print("  ",end="")
+    for b in range(2*i-1):
+        print("*",end=" ")
+    print()
